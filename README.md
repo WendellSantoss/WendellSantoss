@@ -25,7 +25,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=2&section=header" width="100%"/>
 
-## 🚀 Sobre Mim
+## 👋 Olá, sou Wendell Santos
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ Lema:           "A melhor forma de prever o futuro é inventá-lo." — Alan Kay
 </td>
 <td width="40%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WendellSantoss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github.com" width="150px" style="border-radius: 50%;" alt="Sua Foto de Perfil"/>
 
 </td>
 </tr>
