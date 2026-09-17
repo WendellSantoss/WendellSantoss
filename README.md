@@ -49,7 +49,6 @@ Lema:           "A melhor forma de prever o futuro é inventá-lo." — Alan Kay
 </td>
 <td width="40%" valign="top">
 
-<img src="https://githubusercontent.com" width="150px" style="border-radius: 50%;" alt="Wendell Santos"/>
 
 </td>
 </tr>
