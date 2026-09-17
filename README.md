@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=280&section=header&text=Wendell%20Santos&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%40%20UFAL%20%7C%20Full%20Stack%20%26%20Data&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=800&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFAL;Apaixonado+por+Algoritmos+%26+Estruturas+de+Dados;Explorando+Full+Stack+%2B+An%C3%A1lise+de+Dados;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
 
 <br/>
 
@@ -117,58 +117,63 @@ Lema:           "A melhor forma de prever o futuro é inventá-lo." — Alan Kay
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🔹 [Nome do Projeto Principal]</h3>
-<p>Breve descrição de uma linha explicando o que o projeto faz e o problema que resolve.</p>
+<h3>🔹 Tradução Visual Acessível</h3>
+<p>Protótipo de visão computacional para leitura e extração de textos de quadros brancos em sala de aula, com foco em acessibilidade.</p>
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WendellSantoss)
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/WendellSantoss)
 
 </td>
+
 <td width="50%" valign="top">
-<h3>🔹 [Projeto Acadêmico UFAL]</h3>
-<p>Breve descrição de um software, algoritmo ou trabalho de disciplina relevante.</p>
+<h3>🔹 GeniOS — ERP Operacional de Serviços de Campo</h3>
+<p>Sistema ERP para roteirização, logística e auditoria de serviços de campo, desenvolvido como projeto acadêmico de Engenharia de Software.</p>
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Estruturas%20de%20Dados-informational?style=flat-square"/>
+<img src="https://img.shields.io/badge/Engenharia%20de%20Software-2E9EF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WendellSantoss)
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/WendellSantoss)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-<h3>🔹 [Terceiro Projeto]</h3>
-<p>Espaço reservado — adicione outro projeto seu aqui, com foco em dados, algoritmos ou web.</p>
+<h3>🔹 Computação Persuasiva — Corrida Gamificada</h3>
+<p>Análise do aplicativo Zepp e de seus elementos de gamificação e computação persuasiva aplicados ao acompanhamento de treinos de corrida.</p>
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computação%20Persuasiva-6A11CB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gamificação-2E9EF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zepp-111111?style=flat-square"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WendellSantoss)
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/WendellSantoss)
 
 </td>
+
 <td width="50%" valign="top">
-<h3>🔹 [Quarto Projeto]</h3>
-<p>Mais um espaço reservado — ideal para destacar um projeto em grupo ou de extensão.</p>
+<h3>🔹 Sistema Inteligente para Detecção e Análise de Anomalias em Redes</h3>
+<p>Proposta de sistema para identificação e análise de comportamentos anômalos em redes de computadores.</p>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redes%20de%20Computadores-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Análise%20de%20Dados-2E9EF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sistemas%20Inteligentes-6A11CB?style=flat-square"/>
 </p>
 
-[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WendellSantoss)
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/WendellSantoss)
 
 </td>
 </tr>
 </table>
 
-> 💡 *Substitua os nomes, descrições e links acima pelos seus repositórios reais conforme for evoluindo o portfólio.*
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=2&section=header" width="100%"/>
+
 
 ## 📊 Estatísticas & Atividade
 
