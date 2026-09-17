@@ -194,22 +194,6 @@ Lema:           "A melhor forma de prever o futuro é inventá-lo." — Alan Kay
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=2&section=header" width="100%"/>
 
-## 🐍 Contribuições em Forma de Cobrinha
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendellSantoss/WendellSantoss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WendellSantoss/WendellSantoss/output/github-contribution-grid-snake.svg">
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/WendellSantoss/WendellSantoss/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-<sub>⚙️ Requer o workflow <a href="https://github.com/Platane/snk">Platane/snk</a> configurado no seu repositório <code>WendellSantoss/WendellSantoss</code> para gerar essa imagem automaticamente.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=2&section=header" width="100%"/>
-
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
