@@ -25,7 +25,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=2E9EF7&height=2&section=header" width="100%"/>
 
-## 👋 Olá, sou Wendell Santos
+## 👋 Olá, eu sou Wendell Santos
 
 <table>
 <tr>
