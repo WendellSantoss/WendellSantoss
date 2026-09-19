@@ -41,7 +41,7 @@ Acredito no poder transformador da tecnologia e busco aplicar os fundamentos da 
 Educação:       Bacharelado em Ciência da Computação — UFAL (em andamento)
 Experiência:    TI, Suporte Técnico, Logística — Impacto Bioenergia Alagoas S/A
 Foco atual:     Engenharia de Software & Estruturas de Dados
-Aprendendo:     Arquitetura de Sistemas, Clean Code, Cloud
+Aprendendo:     Arquitetura de Sistemas, Cloud Security
 Pergunte-me:    Algoritmos, desafios acadêmicos, café ☕, tech em Alagoas
 Lema:           "A melhor forma de prever o futuro é inventá-lo." — Alan Kay
 ```
