@@ -81,7 +81,6 @@ Minha trajetória passa por **TI, suporte técnico, logística e administração
 ```yaml
 👤 nome:        Wendell Santos
 🌱 origem:      Penedo, AL
-📍 mora_em:     Arapiraca, AL
 🎓 curso:       Ciência da Computação
 🏛️ instituição: UFAL (Arapiraca)
 📅 período:     2023 – 2027
