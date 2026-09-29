@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./banner.svg" alt="Wendell Santos — Ciência da Computação, UFAL" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2E9EF7,100:00E5FF&height=240&section=header&text=Wendell%20Santos&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20UFAL%20%E2%80%A2%20Arapiraca%2C%20Alagoas&descSize=19&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2E9EF7&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Wendell+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFAL;Apaixonado+por+Algoritmos+%26+Estruturas+de+Dados;Explorando+Full+Stack+%2B+An%C3%A1lise+de+Dados;Curioso+por+Computa%C3%A7%C3%A3o+Persuasiva+%26+Acessibilidade;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG"/>
 
