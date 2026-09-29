@@ -63,7 +63,7 @@
 <tr>
 <td width="62%" valign="top">
 
-Olá! Eu sou o **Wendell**, estudante de **Ciência da Computação na Universidade Federal de Alagoas (UFAL), Campus Arapiraca**. Sou natural de **Penedo (AL)**, às margens do Rio São Francisco, e hoje moro em **Arapiraca**.
+Olá! Eu sou o **Wendell**, estudante de **Ciência da Computação na Universidade Federal de Alagoas (UFAL), Campus Arapiraca**. Sou natural de **Penedo (AL)**, às margens do Rio São Francisco.
 
 Acredito no **poder transformador da tecnologia** e busco aplicar os fundamentos da computação na resolução de problemas reais, unindo:
 
